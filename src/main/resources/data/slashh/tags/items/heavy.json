@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#forge:axes",
+      "required": false
+    },
+    {
+      "id": "#minecraft:axes",
+      "required": false
+    }
+  ]
+}

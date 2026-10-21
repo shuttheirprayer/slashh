@@ -1,0 +1,73 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#c:tools",
+      "required": false
+    },
+    {
+      "id": "#forge:swords",
+      "required": false
+    },
+    {
+      "id": "#minecraft:swords",
+      "required": false
+    },
+    {
+      "id": "#forge:tools",
+      "required": false
+    },
+    {
+      "id": "#minecraft:tools",
+      "required": false
+    },
+    {
+      "id": "#c:spears",
+      "required": false
+    },
+    {
+      "id": "#forge:axes",
+      "required": false
+    },
+    {
+      "id": "#minecraft:axes",
+      "required": false
+    },
+    {
+      "id": "#forge:netherite_tools",
+      "required": false
+    },
+    {
+      "id": "#forge:diamond_tools",
+      "required": false
+    },
+    {
+      "id": "#forge:iron_tools",
+      "required": false
+    },
+    {
+      "id": "#forge:gold_tools",
+      "required": false
+    },
+    {
+      "id": "#forge:emerald_tools",
+      "required": false
+    },
+    {
+      "id": "#forge:elvenite_tools",
+      "required": false
+    },
+    {
+      "id": "#forge:voiderite_tools",
+      "required": false
+    },
+    {
+      "id": "#forge:bloody_tools",
+      "required": false
+    },
+    {
+      "id": "#forge:helionite_tools",
+      "required": false
+    }
+  ]
+}
